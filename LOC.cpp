@@ -1,5 +1,6 @@
 // Jaron Patena
-// LOC.cpp
+// Compile: c++ -o LOC LOC.cpp
+// Execute: ./LOC < filename
 #include <iostream>
 #include <string>
 
